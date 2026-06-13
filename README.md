@@ -97,7 +97,7 @@ These public repositories are selected to show recent business application work 
 | **Store Operations** | [backend](https://github.com/Altroo/gestion_magasin_backend) / [frontend](https://github.com/Altroo/gestion_magasin_frontend) | Catalog, inventory, stock transfers, purchases, sales, caisse/POS, promotions, attendance, reporting, PostgreSQL, Redux Toolkit. |
 | **Contracts** | [backend](https://github.com/Altroo/contracts_backend) / [frontend](https://github.com/Altroo/contracts_frontend) | Contract management, document generation, PDF/DOCX workflows, ReportLab, WeasyPrint, python-docx, authenticated dashboard screens. |
 | **Project Management** | [backend](https://github.com/Altroo/management_projet_backend) / [frontend](https://github.com/Altroo/management_projet_frontend) | Projects, clients, suppliers, expenses, revenues, attachments, budgets, payment schedules, dashboards, reports, tests. |
-| **Marketplace** | [Marketplace Backend](https://github.com/Altroo/marketplace_back_end), [Marketplace Frontend](https://github.com/Altroo/marketplace_front_end) | Older marketplace work with Django REST API, Next.js, NextAuth, social login, live chat, notifications, seller/admin dashboards, SEO pages, carts, orders, and subscriptions. |
+| **Marketplace** | [backend](https://github.com/Altroo/marketplace_back_end) / [frontend](https://github.com/Altroo/marketplace_front_end) | Older marketplace work with Django REST API, Next.js, NextAuth, social login, live chat, notifications, seller/admin dashboards, SEO pages, carts, orders, and subscriptions. |
 
 ## Private Work, Public Summary
 
@@ -161,4 +161,5 @@ For job opportunities, freelance projects, or technical collaboration:
 - LinkedIn: [Youness El Alami](https://www.linkedin.com/in/youness-el-alami/)
 - Email: [contact@kelyora.com](mailto:contact@kelyora.com)
 - GitHub: [@Altroo](https://github.com/Altroo)
+
 
