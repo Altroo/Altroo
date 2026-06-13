@@ -10,7 +10,7 @@ I build production systems that connect business workflows to reliable software:
 
 **Open to full-time roles, remote opportunities, and freelance projects around e-commerce, SaaS, internal tools, automation, and API integrations.**
 
-[Website](https://kelyora.com) | [LinkedIn](https://www.linkedin.com/in/youness-el-alami/) | [Email](mailto:contact@kelyora.com)
+<a href="https://kelyora.com" target="_blank" rel="noopener noreferrer">Website</a> | <a href="https://www.linkedin.com/in/youness-el-alami/" target="_blank" rel="noopener noreferrer">LinkedIn</a> | [Email](mailto:contact@kelyora.com)
 
 </div>
 
@@ -25,6 +25,9 @@ I build production systems that connect business workflows to reliable software:
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white" alt="Sass" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000000" alt="JavaScript" />
   <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React" />
@@ -49,6 +52,8 @@ I build production systems that connect business workflows to reliable software:
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=000000" alt="Linux" />
   <img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white" alt="Nginx" />
   <img src="https://img.shields.io/badge/Sentry-362D59?style=flat&logo=sentry&logoColor=white" alt="Sentry" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/Batchfile-4D4D4D?style=flat&logo=windows&logoColor=white" alt="Batchfile" />
 </p>
 
 <p align="center">
@@ -57,8 +62,11 @@ I build production systems that connect business workflows to reliable software:
   <img src="https://img.shields.io/badge/WebStorm-000000?style=flat&logo=webstorm&logoColor=white" alt="WebStorm" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman" />
   <img src="https://img.shields.io/badge/Bun-000000?style=flat&logo=bun&logoColor=white" alt="Bun" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=flat&logo=bitbucket&logoColor=white" alt="Bitbucket" />
+  <img src="https://img.shields.io/badge/Trello-0052CC?style=flat&logo=trello&logoColor=white" alt="Trello" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" alt="Figma" />
   <img src="https://img.shields.io/badge/Codex-000000?style=flat&logo=openai&logoColor=white" alt="Codex" />
   <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat&logo=anthropic&logoColor=white" alt="Claude Code" />
 </p>
@@ -96,13 +104,13 @@ I usually work end-to-end: database design, Django REST API, frontend UX, state 
 
 **Backend:** Python, Django, Django REST Framework / Django REST API, Celery, Redis, Django Channels, Daphne, PostgreSQL, SQL Server, MySQL, JWT, SimpleJWT, OAuth, REST APIs, WebSocket, webhooks
 
-**Frontend:** TypeScript, JavaScript, React, Next.js, React Native, Expo, MUI / Material UI, Redux Toolkit, Redux Saga, React Redux, NextAuth, Tailwind CSS, Radix UI, Chart.js, Formik, Zod, Axios
+**Frontend:** HTML5, CSS3, Sass, TypeScript, JavaScript, React, Next.js, React Native, Expo, MUI / Material UI, Redux Toolkit, Redux Saga, React Redux, NextAuth, Tailwind CSS, Radix UI, Chart.js, Formik, Zod, Axios
 
 **Testing and QA:** Jest, Testing Library, ts-jest, pytest, pytest-django, pytest-cov, pytest-asyncio, pytest-xdist, Playwright, Locust, Selenium, browser smoke checks, API validation
 
-**DevOps and Runtime:** Docker, Docker Compose, Linux servers, Nginx, Gunicorn, Daphne, Redis workers, Git, GitHub, Bitbucket, Sentry, logging, deployment checks
+**DevOps and Runtime:** Docker, Docker Compose, Linux servers, Nginx, Gunicorn, Daphne, Redis workers, Git, GitHub, Bitbucket, Sentry, Bash, Batchfile, post-receive Git hook deployments, logging, deployment checks
 
-**Tools:** VS Code, PyCharm, WebStorm, Postman, OpenAI Codex, Claude Code, Bun, npm/yarn, GitHub, Bitbucket, GitHub Actions-style workflows, shell/CLI automation
+**Tools:** VS Code, PyCharm, WebStorm, Postman, OpenAI Codex, Claude Code, Bun, npm/yarn, Git, GitHub, Bitbucket, Trello, Figma, shell/CLI automation
 
 **Documents and Data:** ReportLab, WeasyPrint, python-docx, openpyxl, pandas, numpy, Pillow, OpenCV, BeautifulSoup, Google APIs, Xero API, Stripe, email APIs
 
@@ -178,8 +186,8 @@ I stay curious outside work too: programming and AI are still my main obsessions
 
 For job opportunities, freelance projects, or technical collaboration:
 
-- Website: [kelyora.com](https://kelyora.com)
-- LinkedIn: [Youness El Alami](https://www.linkedin.com/in/youness-el-alami/)
+- Website: <a href="https://kelyora.com" target="_blank" rel="noopener noreferrer">kelyora.com</a>
+- LinkedIn: <a href="https://www.linkedin.com/in/youness-el-alami/" target="_blank" rel="noopener noreferrer">Youness El Alami</a>
 - Email: [contact@kelyora.com](mailto:contact@kelyora.com)
 - GitHub: [@Altroo](https://github.com/Altroo)
 
