@@ -42,8 +42,6 @@ I build production systems that connect business workflows to reliable software:
   <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white" alt="Playwright" />
   <img src="https://img.shields.io/badge/Locust-2EAD33?style=flat&logo=locust&logoColor=white" alt="Locust" />
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white" alt="Selenium" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/Bun-000000?style=flat&logo=bun&logoColor=white" alt="Bun" />
 </p>
 
 <p align="center">
@@ -51,7 +49,18 @@ I build production systems that connect business workflows to reliable software:
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=000000" alt="Linux" />
   <img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white" alt="Nginx" />
   <img src="https://img.shields.io/badge/Sentry-362D59?style=flat&logo=sentry&logoColor=white" alt="Sentry" />
-  <img src="https://img.shields.io/badge/JetBrains-000000?style=flat&logo=jetbrains&logoColor=white" alt="JetBrains" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white" alt="PyCharm" />
+  <img src="https://img.shields.io/badge/WebStorm-000000?style=flat&logo=webstorm&logoColor=white" alt="WebStorm" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Bun-000000?style=flat&logo=bun&logoColor=white" alt="Bun" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=flat&logo=bitbucket&logoColor=white" alt="Bitbucket" />
+  <img src="https://img.shields.io/badge/Codex-000000?style=flat&logo=openai&logoColor=white" alt="Codex" />
+  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat&logo=anthropic&logoColor=white" alt="Claude Code" />
 </p>
 
 ---
@@ -93,7 +102,7 @@ I usually work end-to-end: database design, Django REST API, frontend UX, state 
 
 **DevOps and Runtime:** Docker, Docker Compose, Linux servers, Nginx, Gunicorn, Daphne, Redis workers, Git, GitHub, Bitbucket, Sentry, logging, deployment checks
 
-**Tools:** Postman, Bun, npm/yarn, JetBrains IDEs, PyCharm, WebStorm, GitHub Actions-style workflows, shell/CLI automation
+**Tools:** VS Code, PyCharm, WebStorm, Postman, OpenAI Codex, Claude Code, Bun, npm/yarn, GitHub, Bitbucket, GitHub Actions-style workflows, shell/CLI automation
 
 **Documents and Data:** ReportLab, WeasyPrint, python-docx, openpyxl, pandas, numpy, Pillow, OpenCV, BeautifulSoup, Google APIs, Xero API, Stripe, email APIs
 
