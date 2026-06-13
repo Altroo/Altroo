@@ -8,6 +8,8 @@
 
 I build production systems that connect business workflows to reliable software: Django REST APIs, React/Next.js dashboards, storefronts, catalog automation, realtime features, tests, monitoring, integrations, and Linux/Docker deployments.
 
+**Open to full-time roles, remote opportunities, and freelance projects around e-commerce, SaaS, internal tools, automation, and API integrations.**
+
 [Website](https://kelyora.com) | [LinkedIn](https://www.linkedin.com/in/youness-el-alami/) | [Email](mailto:contact@kelyora.com)
 
 </div>
@@ -109,6 +111,18 @@ I am strongest where product work needs both backend depth and frontend delivery
 - Used to private production systems where reliability matters more than demos.
 - Clear around scope, tradeoffs, blockers, and production risk.
 
+## For Freelance Clients
+
+I can help turn unclear business workflows into working software with a backend, frontend, deployment path, and maintenance plan.
+
+- Build or improve Django REST API + React/Next.js web apps.
+- Create admin dashboards, tables, charts, filters, exports, and role-based workflows.
+- Integrate Stripe, Xero, email providers, Google APIs, authentication, and third-party APIs.
+- Add Jest, pytest, Playwright, and smoke checks around critical business flows.
+- Debug, stabilize, document, and deploy existing Django/Next.js systems.
+
+Good project fits: e-commerce operations, internal tools, marketplaces, SaaS dashboards, booking/reservation tools, invoicing/contracts, API integrations, automation, and QA coverage.
+
 ## For Developers
 
 I care about systems that stay understandable after they ship.
@@ -119,6 +133,10 @@ I care about systems that stay understandable after they ship.
 - Tests around critical paths instead of only happy-path demos.
 - Tooling that makes repeated operations faster and safer.
 
+## Beyond Code
+
+I stay curious outside work too: programming and AI are still my main obsessions, but I also read philosophy and history of civilizations, follow space and galaxies, play chess sometimes, meditate most nights, listen to music, watch movies and documentaries, enjoy tea, and occasionally unwind with video games.
+
 ## Current Focus
 
 - E-commerce automation and catalog quality.
@@ -128,6 +146,8 @@ I care about systems that stay understandable after they ship.
 - Better test coverage across frontend, backend, and browser flows.
 
 ## Contact
+
+For job opportunities, freelance projects, or technical collaboration:
 
 - Website: [kelyora.com](https://kelyora.com)
 - LinkedIn: [Youness El Alami](https://www.linkedin.com/in/youness-el-alami/)
