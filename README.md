@@ -85,11 +85,19 @@ I usually work end-to-end: database design, Django REST API, frontend UX, state 
 
 **Documents and Data:** ReportLab, WeasyPrint, python-docx, openpyxl, pandas, numpy, Pillow, OpenCV, BeautifulSoup, Google APIs, Xero API, Stripe, email APIs
 
-## Public Examples
+## Public Portfolio
 
-- [marketplace_back_end](https://github.com/Altroo/marketplace_back_end) and [marketplace_front_end](https://github.com/Altroo/marketplace_front_end) - Qaryb marketplace backend/frontend work with Django REST API, Next.js, Redux Toolkit/Saga, NextAuth, live chat, notifications, and dashboards.
-- [xero_assets](https://github.com/Altroo/xero_assets) - Django/Xero Accounting API implementation work.
-- Public business app modules for reservations, contracts, invoicing, project management, task APIs, weather/news demos, and realtime Django Channels experiments.
+These public repositories are selected to show recent business application work across backend APIs and frontend dashboards. Some production details remain private, but the public repos show the architecture, workflow depth, stack, and testing approach.
+
+| Area | Repositories | What it demonstrates |
+| --- | --- | --- |
+| **Billing / Facturation** | [backend](https://github.com/Altroo/facturation_backend) / [frontend](https://github.com/Altroo/facturation_frontend) | Django REST API, invoices, quotes, credit notes, delivery notes, payments, PDF/export workflows, MUI dashboard, Redux Toolkit/Saga, Jest, pytest. |
+| **Reservations** | [backend](https://github.com/Altroo/reservation_backend) / [frontend](https://github.com/Altroo/reservation_frontend) | Booking operations, planning/calendar screens, buildings/units, occupancy, costs, gains, reports, Django REST API, Next.js, MUI. |
+| **Design Workflow** | [backend](https://github.com/Altroo/design_workflow_backend) / [frontend](https://github.com/Altroo/design_workflow_frontend) | Workflow board, projects, tasks, team workload, chat, realtime notifications, dnd-kit, Radix UI, Django Channels. |
+| **Store Operations** | [backend](https://github.com/Altroo/gestion_magasin_backend) / [frontend](https://github.com/Altroo/gestion_magasin_frontend) | Catalog, inventory, stock transfers, purchases, sales, caisse/POS, promotions, attendance, reporting, PostgreSQL, Redux Toolkit. |
+| **Contracts** | [backend](https://github.com/Altroo/contracts_backend) / [frontend](https://github.com/Altroo/contracts_frontend) | Contract management, document generation, PDF/DOCX workflows, ReportLab, WeasyPrint, python-docx, authenticated dashboard screens. |
+| **Project Management** | [backend](https://github.com/Altroo/management_projet_backend) / [frontend](https://github.com/Altroo/management_projet_frontend) | Projects, clients, suppliers, expenses, revenues, attachments, budgets, payment schedules, dashboards, reports, tests. |
+| **Marketplace / Integrations** | [marketplace API](https://github.com/Altroo/marketplace_back_end), [marketplace frontend](https://github.com/Altroo/marketplace_front_end), [Xero integration](https://github.com/Altroo/xero_assets) | Older marketplace work, NextAuth, social login, live chat, notifications, admin dashboards, and accounting API integration. |
 
 ## Private Work, Public Summary
 
