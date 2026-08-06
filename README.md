@@ -4,11 +4,11 @@
 
 **Full Stack Engineer since 2017**
 
-**Django/React Product Rescue | Release Reliability | E-commerce and Business Systems**
+**Senior Product Engineer | Full-Stack Software Engineer | Django, React, Next.js**
 
-I help product teams and agencies rescue stalled Django/React releases: reproduce the failure, fix the root cause, add regression coverage, and return a deployable patch with a clear handoff.
+I design, build, and improve complete software products: architecture, Django APIs, React/Next.js and mobile interfaces, business workflows, background jobs, integrations, tests, deployment, and production reliability.
 
-**Available for paid remote rescue sprints, ongoing release support, and senior engineering work with international teams.**
+**Available for senior product engineering roles, full-stack contracts, and long-term work with international teams.**
 
 <a href="https://www.linkedin.com/in/youness-el-alami/" target="_blank" rel="noopener noreferrer">LinkedIn</a> | [Email](mailto:contact@kelyora.com)
 
@@ -94,6 +94,7 @@ I usually work end-to-end: database design, Django REST API, frontend UX, state 
 | Period | Role | Work |
 | --- | --- | --- |
 | 2026 - Present | **Product Engineer, Kelyora** | Building a custom e-commerce platform from supplier/product tracking into storefront, catalog operations, checkout safety, admin workflows, newsletters, SEO, analytics, monitoring, and production guardrails. |
+| 2026 - Present | **Product Engineer, Unnamed yet** | Building a private, development-stage WhatsApp Business Platform for MENA businesses: multi-tenant CRM and booking, customer segmentation and campaigns, appointment reminders, review workflows, shared support inbox, analytics, permissions, and usage tracking. |
 | 2025 - Present | **Full Stack Engineer, Casa di lusso** | Building business web/mobile applications for invoicing, contracts, reservations, design workflow, and project management using Next.js, React, Django REST API, PostgreSQL, Celery/Redis, realtime notifications, and document exports. |
 | 2024 - 2025 | **Senior Software Engineer, Automation Worx** | Built Playwright, Python, pytest, and Locust automation for marketplace testing, plus full-stack web/mobile work for AI model testing workflows. |
 | 2023 - 2024 | **Senior Software Engineer, ADD Software** | Built accounting backend features with Django REST API, PostgreSQL, JWT auth, filters/search, Ubuntu hosting, and Xero Accounting API integration. |
@@ -134,7 +135,6 @@ These public repositories are selected to show recent business application work 
 
 Several important repositories are private, so I describe the product areas instead of exposing internal names or implementation details.
 
-- **Product Engineering — Unnamed yet** — A private WhatsApp Business Platform for MENA businesses, combining WhatsApp CRM and booking, customer segmentation and campaigns, appointment reminders, review workflows, a shared support inbox, analytics, permissions, and usage tracking. Built with Django REST Framework, PostgreSQL, Celery/Redis, Next.js, RTK Query, Tailwind CSS, pytest, Jest, and Playwright. Source remains private; current status is development-stage.
 - Custom e-commerce platform and supplier-backed product/catalog operations.
 - Business applications for reservations, invoicing, contracts, stock management, design workflow, and project management.
 - Admin/staff dashboards with permissions, exports, charts, realtime notifications, and document generation.
