@@ -8,7 +8,7 @@
 
 I design, build, and improve complete software products: architecture, Django APIs, React/Next.js and mobile interfaces, business workflows, background jobs, integrations, tests, deployment, and production reliability.
 
-**Available for senior product engineering roles, full-stack contracts, and long-term work with international teams.**
+**Open to senior product engineering and full-stack software engineering roles with international teams, including visa-sponsored relocation, remote contracts, and long-term partnerships.**
 
 <a href="https://www.linkedin.com/in/youness-el-alami/" target="_blank" rel="noopener noreferrer">LinkedIn</a> | [Email](mailto:contact@kelyora.com)
 
@@ -145,6 +145,7 @@ Several important repositories are private, so I describe the product areas inst
 
 I am strongest where product work needs both backend depth and frontend delivery.
 
+- Open to visa-sponsored relocation and senior international opportunities.
 - Full-stack engineer with practical production experience since 2017.
 - Strong fit for e-commerce, marketplace, SaaS, automation, dashboard, and internal-tool roles.
 - Comfortable owning APIs, frontend UX, state management, tests, deployment, monitoring, and fixes.
@@ -153,17 +154,18 @@ I am strongest where product work needs both backend depth and frontend delivery
 
 ## For Freelance Clients
 
-### Fixed-scope Django/React rescue sprint
+### Product engineering and full-stack delivery
 
-Bring one broken or blocked critical workflow. I reproduce it, trace the root cause, implement a maintainable fix, add focused pytest/Jest/Playwright coverage, and provide validation plus handoff notes. Typical first engagement: one bounded workflow delivered within 7-10 business days.
+I design, build, extend, and stabilize complete Django/React products. Engagements can cover a new product, one major business workflow, an integration, modernization work, or ongoing engineering support—from architecture and implementation through tests, deployment, and handoff.
 
-- Inherited or stalled Django/React codebases
-- Release-blocking backend, API, frontend, worker, or integration failures
-- Missing regression coverage around critical business workflows
-- Deployment, runtime, and observability failures within the agreed application scope
-- White-label overflow delivery for established product and development agencies
+- End-to-end Django REST API and React/Next.js product development
+- SaaS platforms, e-commerce systems, marketplaces, dashboards, and internal tools
+- Data models, permissions, background jobs, realtime features, and API integrations
+- Business workflows involving bookings, invoicing, contracts, inventory, and operations
+- Jest, pytest, Playwright, deployment, monitoring, and production reliability
+- White-label agency delivery, product extensions, rescue work, and long-term support
 
-Good project fits: e-commerce operations, internal tools, marketplaces, SaaS dashboards, booking/reservation tools, invoicing/contracts, API integrations, automation, and release reliability.
+Good project fits: e-commerce operations, internal tools, marketplaces, SaaS dashboards, booking/reservation tools, invoicing/contracts, API integrations, automation, and product modernization.
 
 I do not perform penetration testing. I accept only systems the client owns or is authorized to modify.
 
@@ -191,7 +193,7 @@ I stay curious outside work too: programming and AI are still my main obsessions
 
 ## Contact
 
-For job opportunities, freelance projects, or technical collaboration:
+For visa-sponsored roles, remote contracts, freelance projects, or technical collaboration:
 
 - LinkedIn: <a href="https://www.linkedin.com/in/youness-el-alami/" target="_blank" rel="noopener noreferrer">Youness El Alami</a>
 - Email: [contact@kelyora.com](mailto:contact@kelyora.com)
