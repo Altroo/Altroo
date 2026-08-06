@@ -4,13 +4,13 @@
 
 **Full Stack Engineer since 2017**
 
-**Python/Django REST API | React/Next.js | TypeScript | E-commerce | Marketplaces | Automation**
+**Django/React Product Rescue | Release Reliability | E-commerce and Business Systems**
 
-I build production systems that connect business workflows to reliable software: Django REST APIs, React/Next.js dashboards, storefronts, catalog automation, realtime features, tests, monitoring, integrations, and Linux/Docker deployments.
+I help product teams and agencies rescue stalled Django/React releases: reproduce the failure, fix the root cause, add regression coverage, and return a deployable patch with a clear handoff.
 
-**Open to full-time roles, remote opportunities, and freelance projects around e-commerce, SaaS, internal tools, automation, and API integrations.**
+**Available for paid remote rescue sprints, ongoing release support, and senior engineering work with international teams.**
 
-<a href="https://kelyora.com" target="_blank" rel="noopener noreferrer">Website</a> | <a href="https://www.linkedin.com/in/youness-el-alami/" target="_blank" rel="noopener noreferrer">LinkedIn</a> | [Email](mailto:contact@kelyora.com)
+<a href="https://www.linkedin.com/in/youness-el-alami/" target="_blank" rel="noopener noreferrer">LinkedIn</a> | [Email](mailto:contact@kelyora.com)
 
 </div>
 
@@ -93,7 +93,7 @@ I usually work end-to-end: database design, Django REST API, frontend UX, state 
 
 | Period | Role | Work |
 | --- | --- | --- |
-| 2026 - Present | **Founder / Full Stack Engineer, Kelyora** | Building a custom e-commerce platform from supplier/product tracking into storefront, catalog operations, checkout safety, admin workflows, newsletters, SEO, analytics, monitoring, and production guardrails. |
+| 2026 - Present | **Product Engineer, Kelyora** | Building a custom e-commerce platform from supplier/product tracking into storefront, catalog operations, checkout safety, admin workflows, newsletters, SEO, analytics, monitoring, and production guardrails. |
 | 2025 - Present | **Full Stack Engineer, Casa di lusso** | Building business web/mobile applications for invoicing, contracts, reservations, design workflow, and project management using Next.js, React, Django REST API, PostgreSQL, Celery/Redis, realtime notifications, and document exports. |
 | 2024 - 2025 | **Senior Software Engineer, Automation Worx** | Built Playwright, Python, pytest, and Locust automation for marketplace testing, plus full-stack web/mobile work for AI model testing workflows. |
 | 2023 - 2024 | **Senior Software Engineer, ADD Software** | Built accounting backend features with Django REST API, PostgreSQL, JWT auth, filters/search, Ubuntu hosting, and Xero Accounting API integration. |
@@ -118,6 +118,8 @@ I usually work end-to-end: database design, Django REST API, frontend UX, state 
 
 These public repositories are selected to show recent business application work across backend APIs and frontend dashboards. Some production details remain private, but the public repos show the architecture, workflow depth, stack, and testing approach.
 
+**Featured proof:** [Billing platform — reliable document workflows](CASE_STUDY_BILLING_WORKFLOWS.md) — current TypeScript verification and 62 passing targeted workflow tests, with exact scope and limitations.
+
 | Area | Repositories | What it demonstrates |
 | --- | --- | --- |
 | **Billing / Facturation** | [backend](https://github.com/Altroo/facturation_backend) / [frontend](https://github.com/Altroo/facturation_frontend) | Django REST API, invoices, quotes, credit notes, delivery notes, payments, PDF/export workflows, MUI dashboard, Redux Toolkit/Saga, Jest, pytest. |
@@ -132,6 +134,7 @@ These public repositories are selected to show recent business application work 
 
 Several important repositories are private, so I describe the product areas instead of exposing internal names or implementation details.
 
+- **Product Engineering — Unnamed yet** — A private WhatsApp Business Platform for MENA businesses, combining WhatsApp CRM and booking, customer segmentation and campaigns, appointment reminders, review workflows, a shared support inbox, analytics, permissions, and usage tracking. Built with Django REST Framework, PostgreSQL, Celery/Redis, Next.js, RTK Query, Tailwind CSS, pytest, Jest, and Playwright. Source remains private; current status is development-stage.
 - Custom e-commerce platform and supplier-backed product/catalog operations.
 - Business applications for reservations, invoicing, contracts, stock management, design workflow, and project management.
 - Admin/staff dashboards with permissions, exports, charts, realtime notifications, and document generation.
@@ -150,15 +153,19 @@ I am strongest where product work needs both backend depth and frontend delivery
 
 ## For Freelance Clients
 
-I can help turn unclear business workflows into working software with a backend, frontend, deployment path, and maintenance plan.
+### Fixed-scope Django/React rescue sprint
 
-- Build or improve Django REST API + React/Next.js web apps.
-- Create admin dashboards, tables, charts, filters, exports, and role-based workflows.
-- Integrate Stripe, Xero, email providers, Google APIs, authentication, and third-party APIs.
-- Add Jest, pytest, Playwright, and smoke checks around critical business flows.
-- Debug, stabilize, document, and deploy existing Django/Next.js systems.
+Bring one broken or blocked critical workflow. I reproduce it, trace the root cause, implement a maintainable fix, add focused pytest/Jest/Playwright coverage, and provide validation plus handoff notes. Typical first engagement: one bounded workflow delivered within 7-10 business days.
 
-Good project fits: e-commerce operations, internal tools, marketplaces, SaaS dashboards, booking/reservation tools, invoicing/contracts, API integrations, automation, and QA coverage.
+- Inherited or stalled Django/React codebases
+- Release-blocking backend, API, frontend, worker, or integration failures
+- Missing regression coverage around critical business workflows
+- Deployment, runtime, and observability failures within the agreed application scope
+- White-label overflow delivery for established product and development agencies
+
+Good project fits: e-commerce operations, internal tools, marketplaces, SaaS dashboards, booking/reservation tools, invoicing/contracts, API integrations, automation, and release reliability.
+
+I do not perform penetration testing. I accept only systems the client owns or is authorized to modify.
 
 ## For Developers
 
@@ -186,7 +193,6 @@ I stay curious outside work too: programming and AI are still my main obsessions
 
 For job opportunities, freelance projects, or technical collaboration:
 
-- Website: <a href="https://kelyora.com" target="_blank" rel="noopener noreferrer">kelyora.com</a>
 - LinkedIn: <a href="https://www.linkedin.com/in/youness-el-alami/" target="_blank" rel="noopener noreferrer">Youness El Alami</a>
 - Email: [contact@kelyora.com](mailto:contact@kelyora.com)
 - GitHub: [@Altroo](https://github.com/Altroo)
