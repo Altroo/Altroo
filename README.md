@@ -94,7 +94,7 @@ I usually work end-to-end: database design, Django REST API, frontend UX, state 
 | Period | Role | Work |
 | --- | --- | --- |
 | 2026 - Present | **Product Engineer, Kelyora** | Building a custom e-commerce platform from supplier/product tracking into storefront, catalog operations, checkout safety, admin workflows, newsletters, SEO, analytics, monitoring, and production guardrails. |
-| 2026 - Present | **Product Engineer, Unnamed yet** | Building a private, development-stage WhatsApp Business Platform for MENA businesses: multi-tenant CRM and booking, customer segmentation and campaigns, appointment reminders, review workflows, shared support inbox, analytics, permissions, and usage tracking. |
+| 2026 - 2026 | **Product Engineer, Unnamed yet** | Building a private, development-stage WhatsApp Business Platform for MENA businesses: multi-tenant CRM and booking, customer segmentation and campaigns, appointment reminders, review workflows, shared support inbox, analytics, permissions, and usage tracking. |
 | 2025 - Present | **Full Stack Engineer, Casa di lusso** | Building business web/mobile applications for invoicing, contracts, reservations, design workflow, and project management using Next.js, React, Django REST API, PostgreSQL, Celery/Redis, realtime notifications, and document exports. |
 | 2024 - 2025 | **Senior Software Engineer, Automation Worx** | Built Playwright, Python, pytest, and Locust automation for marketplace testing, plus full-stack web/mobile work for AI model testing workflows. |
 | 2023 - 2024 | **Senior Software Engineer, ADD Software** | Built accounting backend features with Django REST API, PostgreSQL, JWT auth, filters/search, Ubuntu hosting, and Xero Accounting API integration. |
